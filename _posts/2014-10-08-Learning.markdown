@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Learning out of order
+date: 2014-10-08
+--- 
+
+Impatience, procrastination, and a go-gettum attitude have always served me extraordinarily well. I understand that we're trying to learn about each individual building block before we decide to go and build a gigantic house, but I've never been good at masonry, and I always seem to build better houses by knocking a few down first. See, while I know that it is important to go through and learn about declaring objects, learning JSON, and how to float elements before implementing them all into a bigger project, I inevitably always end up going back and re-learning aboaut these things when I sink my teeth into a bigger project. For this reason, I've had some trouble finding motivation to go through and do some of the homework exercises that we've been assigned in the past few weeks.
+
+Pre-work: 2 sections devoted to declaring objects and putting them into practice.
+
+Homework: Go declare these objects. 
+
+Its like I'm a kid that doesn't want to eat his veggies.
+<img class="centerGif" src="http://hugelolcdn.com/i700/47924.jpg">
+
+
+I just feel like I'm going two steps forward and one step back. Seems like its high time I stop bitching about this and just go try to implement this into some project. The problem I'm having is that I don't know what this project should be. How can I tie all of these shiny new knowledges together in something that will stimulate and motivate my lazy brain? 
+
+
+
+ What kind of project would this be? Seems like its google to the rescue, or try to skip ahead. 
+
+Also I really need to stop playing Destiny. Really I should swear off of video games until this class is over. I will thank myself later. Someone come hide my playstation from me. Please. 
+
+
+

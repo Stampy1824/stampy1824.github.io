@@ -4,14 +4,11 @@ title: September First Post
 date: 2014-09-10
 ---
 
-<!DOCTYPE html>
-    <head>
-        <title>9/10/14</title>
-   	</head> 
-    <body>
-        <h1>9/10/14</h1>
-        <p>It is Day 2 of the Makersquare frontend class, I'm still finishing up the jQuery pre-work, and every time I think I get it, something else comes up that I don't get. I suppose that's how it goes though. I'm excited to plug it into this blog project or other future projects. I think figuring out how to efficiently use classes and ids in my HTML will make using jQuery easier. </p>
-        <p>This is kind of how I feel in class right now:</p>
-        <img src="http://raincoaster.files.wordpress.com/2014/02/confused.gif?w=558"/>
-         Its not that I don't understand what's going on, but rather that I know a lot of this learning is up to me, and I just have to jump in to find questions.
+<h1>9/10/14</h1>   
+It is Day 2 of the Makersquare frontend class, I'm still finishing up the jQuery pre-work, and every time I think I get it, something else comes up that I don't get. I suppose that's how it goes though. I'm excited to plug it into this blog project or other future projects. I think figuring out how to efficiently use classes and ids in my HTML will make using jQuery easier.
+This is kind of how I feel in class right now:
+
+<img src="http://raincoaster.files.wordpress.com/2014/02/confused.gif?w=558">
+
+Its not that I don't understand what's going on, but rather that I know that this learning is up to me, and I just have to jump in to find questions.
     
